@@ -21,6 +21,6 @@ print('Average number of common gems: ' + str(sum(numCommon) / float(len(numComm
 # Average number of common gems: 3.648415
 # Average number of common gems: 3.649607
 # Average number of common gems: 3.643267 <- outlier?
-# eh, let's just call it 3.65.
+# eh, let's just call it 3.65.  Round up to 4.
 
 
